@@ -1,0 +1,6 @@
+.*
+!.gitignore
+.DS_Store
+.idea
+target
+interview_automation.iml
